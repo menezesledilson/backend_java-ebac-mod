@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c1a75471-d579-4474-8569-17ea3781c82f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../mod22/exemplos/src/stream/ExemplosForEach.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../mod22/exemplos/src/stream/CriandoStreams.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../mod22/exemplos/src/stream/CriandoStreams.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../mod22/exemplos/src/stream/ExemploLimit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../mod22/exemplos/src/stream/ExemploMap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../mod22/exemplos/src/stream/ExemplosDistinct.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../mod22/exemplos/src/stream/ExemplosFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../mod22/exemplos/src/stream/ExemplosFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../mod22/exemplos/src/stream/ExemplosSorted.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../mod22/exemplos/src/stream/ExemplosSorted.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../mod22/exemplos/src/stream/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../mod22/exemplos/src/stream/Pessoa.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2SkA2IcKbU90LNmhrsqlyVSaHZI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/DEVMEDIA/BACK_END/EBAC/mod23-1/ExemplosMod23e24/src",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="dao" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.ClienteServiceTest">
+    <configuration name="ClienteServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="exemplos" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestService.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestService" />
+      <option name="MAIN_CLASS_NAME" value="TestService.ClienteServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClienteServiceTest.salvarTeste" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="exemplos" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestService.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestService" />
+      <option name="MAIN_CLASS_NAME" value="TestService.ClienteServiceTest" />
+      <option name="METHOD_NAME" value="salvarTeste" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ClienteServiceTest" />
+        <item itemvalue="JUnit.ClienteServiceTest.salvarTeste" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c1a75471-d579-4474-8569-17ea3781c82f" name="Changes" comment="" />
+      <created>1689679998228</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1689679998228</updated>
+      <workItem from="1689679999670" duration="3039000" />
+      <workItem from="1689683082238" duration="75000" />
+      <workItem from="1689683174134" duration="178000" />
+      <workItem from="1689683369784" duration="63000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

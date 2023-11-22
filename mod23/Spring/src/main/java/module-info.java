@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * 
+ */
+module PrimeirosTestesComJunit {
+	requires junit;
+}

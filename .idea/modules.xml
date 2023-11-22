@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/EBAC.iml" filepath="$PROJECT_DIR$/.idea/EBAC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mod10/mod10.iml" filepath="$PROJECT_DIR$/mod10/mod10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mod11/mod11.iml" filepath="$PROJECT_DIR$/mod11/mod11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mod12/mod12.iml" filepath="$PROJECT_DIR$/mod12/mod12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mod13/mod13.iml" filepath="$PROJECT_DIR$/mod13/mod13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mod14/mod14.iml" filepath="$PROJECT_DIR$/mod14/mod14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mod15/mod15.iml" filepath="$PROJECT_DIR$/mod15/mod15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mod16/mod16.iml" filepath="$PROJECT_DIR$/mod16/mod16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mod17/mod17.iml" filepath="$PROJECT_DIR$/mod17/mod17.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mod18/mod18.iml" filepath="$PROJECT_DIR$/mod18/mod18.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mod19/mod19.iml" filepath="$PROJECT_DIR$/mod19/mod19.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mod5/mod5.iml" filepath="$PROJECT_DIR$/mod5/mod5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mod6/mod6.iml" filepath="$PROJECT_DIR$/mod6/mod6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mod7/mod7.iml" filepath="$PROJECT_DIR$/mod7/mod7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mod8/mod8.iml" filepath="$PROJECT_DIR$/mod8/mod8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mod9/mod9.iml" filepath="$PROJECT_DIR$/mod9/mod9.iml" />
+    </modules>
+  </component>
+</project>

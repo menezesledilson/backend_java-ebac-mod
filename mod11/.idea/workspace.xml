@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="00bfcc49-a2cc-4b52-8d68-ceb33f03b11c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExemplosMod11/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExemplosMod11/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExemplosMod11/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExemplosMod11/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExemplosMod11/src/array/ExemploBubbleSortDinamico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExemplosMod11/src/array/ExemploBubbleSortFixo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExemplosMod11/src/array/ExemplosArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExemplosMod11/src/domain/Aluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExemplosMod11/src/domain/Biblioteca.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExemplosMod11/src/domain/ComparaNotaAluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExemplosMod11/src/domain/Livro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExemplosMod11/src/iterator/ExemploIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExemplosMod11/src/list/ExemploArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExemplosMod11/src/list/ExemploArrayListAluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExemplosMod11/src/list/ExemploLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExemplosMod11/src/list/ExemploLinkedListAluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExemplosMod11/src/list/TestesPerformanceList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExemplosMod11/src/queueu/ExemploArrayDeque.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExemplosMod11/src/queueu/ExemploLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExemplosMod11/src/queueu/ExemploPriorityQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExemplosMod11/src/set/ExemploHashSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExemplosMod11/src/set/ExemploHashSetAluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExemplosMod11/src/set/ExemploLinkedHashSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExemplosMod11/src/set/ExemploTreeSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExemplosMod11/src/set/ExemploTreeSetAluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExemplosMod11/src/set/TestesPerformanceSet.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2R1rLmJsMMX7voG0C1gvCelTWTQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/DEVMEDIA/BACK_END/EBAC/mod11&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="00bfcc49-a2cc-4b52-8d68-ceb33f03b11c" name="Changes" comment="" />
+      <created>1686428374770</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1686428374770</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
