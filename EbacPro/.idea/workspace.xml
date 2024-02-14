@@ -1,47 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="5eb949f0-9d81-4a71-a606-2939f15d7df4" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../mod14/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mod14/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mod25/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mod25/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mod25/ExemploVendasMod25/out/production/main/br/com/rpires/AllTests.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mod25/ExemploVendasMod25/out/production/main/br/com/rpires/ClienteDAOTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mod25/ExemploVendasMod25/out/production/main/br/com/rpires/ClienteServiceTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mod25/ExemploVendasMod25/out/production/main/br/com/rpires/ProdutoDAOTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mod25/ExemploVendasMod25/out/production/main/br/com/rpires/ProdutoServiceTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mod25/ExemploVendasMod25/out/production/main/br/com/rpires/VendaDAOTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mod25/ExemploVendasMod25/out/production/main/br/com/rpires/dao/ClienteDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/../mod25/ExemploVendasMod25/out/production/main/br/com/rpires/dao/ClienteDAO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mod25/ExemploVendasMod25/out/production/main/br/com/rpires/dao/ClienteDaoMock.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mod25/ExemploVendasMod25/out/production/main/br/com/rpires/dao/IClienteDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/../mod25/ExemploVendasMod25/out/production/main/br/com/rpires/dao/IClienteDAO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mod25/ExemploVendasMod25/out/production/main/br/com/rpires/dao/IProdutoDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/../mod25/ExemploVendasMod25/out/production/main/br/com/rpires/dao/IProdutoDAO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mod25/ExemploVendasMod25/out/production/main/br/com/rpires/dao/IVendaDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/../mod25/ExemploVendasMod25/out/production/main/br/com/rpires/dao/IVendaDAO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mod25/ExemploVendasMod25/out/production/main/br/com/rpires/dao/ProdutoDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/../mod25/ExemploVendasMod25/out/production/main/br/com/rpires/dao/ProdutoDAO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mod25/ExemploVendasMod25/out/production/main/br/com/rpires/dao/ProdutoDaoMock.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mod25/ExemploVendasMod25/out/production/main/br/com/rpires/dao/VendaDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/../mod25/ExemploVendasMod25/out/production/main/br/com/rpires/dao/VendaDAO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mod25/ExemploVendasMod25/out/production/main/br/com/rpires/dao/generic/GenericDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/../mod25/ExemploVendasMod25/out/production/main/br/com/rpires/dao/generic/GenericDAO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mod25/ExemploVendasMod25/out/production/main/br/com/rpires/dao/generic/IGenericDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/../mod25/ExemploVendasMod25/out/production/main/br/com/rpires/dao/generic/IGenericDAO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mod25/ExemploVendasMod25/out/production/main/br/com/rpires/dao/generic/SingletonMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/../mod25/ExemploVendasMod25/out/production/main/br/com/rpires/dao/generic/SingletonMap.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mod25/ExemploVendasMod25/out/production/main/br/com/rpires/domain/Cliente.class" beforeDir="false" afterPath="$PROJECT_DIR$/../mod25/ExemploVendasMod25/out/production/main/br/com/rpires/domain/Cliente.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mod25/ExemploVendasMod25/out/production/main/br/com/rpires/domain/Produto.class" beforeDir="false" afterPath="$PROJECT_DIR$/../mod25/ExemploVendasMod25/out/production/main/br/com/rpires/domain/Produto.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mod25/ExemploVendasMod25/out/production/main/br/com/rpires/domain/ProdutoQuantidade.class" beforeDir="false" afterPath="$PROJECT_DIR$/../mod25/ExemploVendasMod25/out/production/main/br/com/rpires/domain/ProdutoQuantidade.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mod25/ExemploVendasMod25/out/production/main/br/com/rpires/domain/Venda$Status.class" beforeDir="false" afterPath="$PROJECT_DIR$/../mod25/ExemploVendasMod25/out/production/main/br/com/rpires/domain/Venda$Status.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mod25/ExemploVendasMod25/out/production/main/br/com/rpires/domain/Venda.class" beforeDir="false" afterPath="$PROJECT_DIR$/../mod25/ExemploVendasMod25/out/production/main/br/com/rpires/domain/Venda.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mod25/ExemploVendasMod25/out/production/main/br/com/rpires/exceptions/TipoChaveNaoEncontradaException.class" beforeDir="false" afterPath="$PROJECT_DIR$/../mod25/ExemploVendasMod25/out/production/main/br/com/rpires/exceptions/TipoChaveNaoEncontradaException.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mod25/ExemploVendasMod25/out/production/main/br/com/rpires/services/ClienteService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../mod25/ExemploVendasMod25/out/production/main/br/com/rpires/services/ClienteService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mod25/ExemploVendasMod25/out/production/main/br/com/rpires/services/IProdutoService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../mod25/ExemploVendasMod25/out/production/main/br/com/rpires/services/IProdutoService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mod25/ExemploVendasMod25/out/production/main/br/com/rpires/services/ProdutoService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../mod25/ExemploVendasMod25/out/production/main/br/com/rpires/services/ProdutoService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mod25/ExemploVendasMod25/out/production/main/br/com/rpires/services/generic/GenericService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../mod25/ExemploVendasMod25/out/production/main/br/com/rpires/services/generic/GenericService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mod25/ExemploVendasMod25/out/production/main/br/com/rpires/services/generic/IGenericService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../mod25/ExemploVendasMod25/out/production/main/br/com/rpires/services/generic/IGenericService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod3/mod3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod3/src/BackupSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod3/src/NRainha.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="2bdqIvAtYdJ7F6uyoRIFNStNCJl" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -50,11 +38,32 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "E:/DEVMEDIA/BACK_END/backend_java-ebac-mod/EbacPro",
+    "jdk.selected.JAVA_MODULE": "17",
+    "last_opened_file_path": "E:/DEVMEDIA/BACK_END/Alura/apiMedicos/api",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="EbacPro" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="EbacPro" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -64,6 +73,8 @@
       <option name="presentableId" value="Default" />
       <updated>1706555227111</updated>
       <workItem from="1706555228124" duration="44000" />
+      <workItem from="1706787648574" duration="5168000" />
+      <workItem from="1706822040733" duration="21000" />
     </task>
     <servers />
   </component>
